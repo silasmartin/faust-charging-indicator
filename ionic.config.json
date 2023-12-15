@@ -1,0 +1,7 @@
+{
+  "name": "charging-indicator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
